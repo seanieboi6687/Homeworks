@@ -18,5 +18,12 @@ class Stack
 end
 
 class Queue
+
+    def initialize
+        @queue = []
+    end
     
+    def enqueue(ele)
+
+    end
 end
