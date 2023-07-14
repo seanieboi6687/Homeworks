@@ -28,5 +28,8 @@ class Queue
     def enqueue(ele)
         queue.push(ele)
     end
-    
+
+    def dequeue
+        queue.pop
+    end
 end
