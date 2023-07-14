@@ -16,3 +16,7 @@ class Stack
         return stack.first
     end
 end
+
+class Queue
+    
+end
