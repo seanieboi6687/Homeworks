@@ -8,4 +8,7 @@ class Stack
         stack.push(ele)
     end
 
+    def pop
+        stack.pop
+    end
 end
