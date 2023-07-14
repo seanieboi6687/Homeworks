@@ -32,4 +32,8 @@ class Queue
     def dequeue
         queue.pop
     end
+
+    def peek
+        return queue.first
+    end
 end
